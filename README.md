@@ -1,7 +1,7 @@
 # SpringBootInternetHospital
 基于JAVA SpringBoot互联网就医门诊挂号管理系统
 
-演示视频链接：
+演示视频链接：https://www.bilibili.com/video/BV15G411d7dZ
 
 功能介绍：
 
